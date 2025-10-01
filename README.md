@@ -173,3 +173,7 @@ Edit
    ↳ AI CV improvement
        ↓
 [Apply edits → Export CV (choose template) → Download]
+
+## New Initiatives Roadmap
+
+Refer to [`docs/tasks-master.md`](docs/tasks-master.md) for Epics 9–12 covering testing, performance, email integration, and Vercel deployment pipeline workstreams.
